@@ -1,6 +1,4 @@
-# ToDoManager
-
-exercicio de Node.js com Express e JWT
+# tarefa de Node.js com Express e JWT
 
 aluno: Rodrigo Alberto Queiroz Costa
 matricula: 1931088038
